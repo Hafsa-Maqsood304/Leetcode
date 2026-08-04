@@ -104,4 +104,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0036-valid-sudoku) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
