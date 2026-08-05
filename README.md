@@ -59,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -107,5 +108,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
