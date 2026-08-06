@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
