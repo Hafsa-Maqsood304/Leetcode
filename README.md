@@ -47,6 +47,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0072-edit-distance) |
 ## Trie
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0072-edit-distance) |
 ## Memoization
 |  |
 | ------- |
