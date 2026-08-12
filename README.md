@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0075-sort-colors](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
