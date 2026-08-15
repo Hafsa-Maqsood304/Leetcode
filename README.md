@@ -119,6 +119,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Sorting
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
