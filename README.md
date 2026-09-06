@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -104,6 +105,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0072-edit-distance) |
 ## Memoization
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Linked List
 |  |
 | ------- |
