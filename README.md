@@ -176,4 +176,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0011-container-with-most-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hafsa-Maqsood304/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
